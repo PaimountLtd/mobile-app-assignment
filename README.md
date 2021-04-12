@@ -16,7 +16,8 @@ Video feed shows a full screen video that is loaded from a url.
 
 User profile shows basic information about the user: profile picture, user name etc. 
 
-* Please find an example user profile UI in `user_profile.png`. 
+* Please find an example user profile UI in `user_photo.png`. 
+* You should parse `user.json` to retrieve mock data for the user profile.
 
 ## Recommendations
 

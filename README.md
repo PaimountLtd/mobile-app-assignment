@@ -42,7 +42,8 @@ While the hard requirements of this assignment are somewhat basic, we are lookin
 * Drag-to-refresh
 
 The 2-3 hours time requirement is not a hard stop, and was determined with an assumption of previous basic knowledge of core concepts utilized.
-Documentation & Thought Process
+
+## Documentation & Thought Process
 
 Please take some time to briefly answer the following questions at the end of your submission
 

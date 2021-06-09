@@ -1,4 +1,4 @@
-# Streamlabs iOS App Assignment
+# Streamlabs Mobile App Assignment
 
 ## Introduction
 Hi there! We are happy you are interested in joining the mobile engineering team here at Streamlabs. We are on a mission of building tools to help content creators around the world grow, and we are excited to have you on board.
@@ -21,7 +21,8 @@ User profile shows basic information about the user: profile picture, user name 
 
 ## Recommendations
 
-* Preferred language: Swift
+* Preferred language for iOS: Swift
+* Preferred language for Android: Kotlin
 * Preferred architecture: Anything except MVC
 * Please architecture as you would a production app
 * Using third-party libraries is allowed
@@ -33,7 +34,7 @@ User profile shows basic information about the user: profile picture, user name 
 	* Anything else you find important
 
 ## What we are looking for
-While the hard requirements of this assignment are somewhat basic, we are looking for assignments that display a deep understanding of Swift and an ability to write clean and scalable code. The infrastructure should be easily able to potentially handle future feature requirements such as the following:
+While the hard requirements of this assignment are somewhat basic, we are looking for assignments that display a deep understanding of programming language and an ability to write clean and scalable code. The infrastructure should be easily able to potentially handle future feature requirements such as the following:
 
 * Video caching
 * Uploading new videos
